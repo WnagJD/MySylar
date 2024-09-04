@@ -1,0 +1,1 @@
+/usr/bin/g++   -std=c++11 -O0 -ggdb -Wall -Werror -rdynamic -fPIC -Wno-unused-function -Wno-builtin-macro-redefined -Wno-deprecated -Wno-deprecated-declarations -g  -rdynamic CMakeFiles/test_log.dir/test/test_log.cpp.o  -o ../bin/test_log -Wl,-rpath,/home/wangjiandong/MySylar/lib ../lib/libsylar.so -lyaml-cpp 

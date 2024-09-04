@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/wangjiandong/MySylar/build",
+  "command": "/usr/bin/g++   -D__FILE__=\\\"test/test_log.cpp\\\" -I/home/wangjiandong/MySylar/. -I/usr/local/include -I/home/wangjiandong/MySylar/sylar   -std=c++11 -O0 -ggdb -Wall -Werror -rdynamic -fPIC -Wno-unused-function -Wno-builtin-macro-redefined -Wno-deprecated -Wno-deprecated-declarations -g   -o CMakeFiles/test_log.dir/test/test_log.cpp.o -c /home/wangjiandong/MySylar/test/test_log.cpp",
+  "file": "/home/wangjiandong/MySylar/test/test_log.cpp"
+}
+]

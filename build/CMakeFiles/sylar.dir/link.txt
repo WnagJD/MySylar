@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC  -std=c++11 -O0 -ggdb -Wall -Werror -rdynamic -fPIC -Wno-unused-function -Wno-builtin-macro-redefined -Wno-deprecated -Wno-deprecated-declarations -g  -shared -Wl,-soname,libsylar.so -o ../lib/libsylar.so CMakeFiles/sylar.dir/sylar/log.cpp.o CMakeFiles/sylar.dir/sylar/config.cpp.o CMakeFiles/sylar.dir/sylar/util.cpp.o 
